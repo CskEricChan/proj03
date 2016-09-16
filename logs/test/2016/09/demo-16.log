@@ -1,0 +1,182 @@
+===20160916-151412,main[6]=== for test
+
+===20160916-155747,main[7]=== main begin
+
+===20160916-155747,main[30]=== origin process begin
+
+===20160916-155747,main[35]=== data : 
+
+===20160916-155747,main[37]=== origin process end
+
+===20160916-155747,main[41]=== main end
+
+===20160916-155747,main[22]=== child process begin
+
+===20160916-155747,main[26]=== child process end
+
+===20160916-155747,main[41]=== main end
+
+===20160916-155925,main[8]=== main begin
+
+===20160916-155925,main[31]=== origin process begin
+
+===20160916-155925,main[36]=== data : 
+
+===20160916-155925,main[38]=== origin process end
+
+===20160916-155925,main[23]=== child process begin
+
+===20160916-155925,main[42]=== main end
+
+===20160916-155925,main[27]=== child process end
+
+===20160916-155925,main[42]=== main end
+
+===20160916-155958,main[8]=== main begin
+
+===20160916-155958,main[31]=== origin process begin
+
+===20160916-155958,main[36]=== data : 
+
+===20160916-155958,main[23]=== child process begin
+
+===20160916-155958,main[38]=== origin process end
+
+===20160916-155958,main[42]=== main end
+
+===20160916-155958,main[27]=== child process end
+
+===20160916-155958,main[42]=== main end
+
+===20160916-160245,main[8]=== main begin
+
+===20160916-160245,main[32]=== origin process begin
+
+===20160916-160245,main[37]=== data : 
+
+===20160916-160245,main[39]=== origin process end
+
+===20160916-160245,main[23]=== child process begin
+
+===20160916-160245,main[42]=== main end
+
+===20160916-160246,main[28]=== child process end
+
+===20160916-160246,main[42]=== main end
+
+===20160916-160541,main[8]=== main begin
+
+===20160916-160541,main[33]=== origin process begin
+
+===20160916-160541,main[24]=== child process begin
+
+===20160916-160541,main[38]=== data : 
+
+===20160916-160541,main[40]=== origin process end
+
+===20160916-160541,main[43]=== main end
+
+===20160916-160652,main[8]=== main begin
+
+===20160916-160652,main[33]=== origin process begin
+
+===20160916-160652,main[38]=== data : 
+
+===20160916-160652,main[40]=== origin process end
+
+===20160916-160652,main[43]=== main end
+
+===20160916-160652,main[24]=== child process begin
+
+===20160916-160841,main[8]=== main begin
+
+===20160916-160841,main[33]=== origin process begin
+
+===20160916-160841,main[24]=== child process begin
+
+===20160916-160841,main[38]=== data : 
+
+===20160916-160841,main[40]=== origin process end
+
+===20160916-160841,main[43]=== main end
+
+===20160916-160918,main[8]=== main begin
+
+===20160916-160918,main[33]=== origin process begin
+
+===20160916-160918,main[38]=== data : 
+
+===20160916-160918,main[40]=== origin process end
+
+===20160916-160918,main[43]=== main end
+
+===20160916-160918,main[24]=== child process begin
+
+===20160916-160944,main[8]=== main begin
+
+===20160916-160944,main[33]=== origin process begin
+
+===20160916-160944,main[38]=== data : 
+
+===20160916-160944,main[40]=== origin process end
+
+===20160916-160944,main[43]=== main end
+
+===20160916-160944,main[24]=== child process begin
+
+===20160916-161533,main[10]=== main begin
+
+===20160916-161533,main[26]=== child process begin
+
+===20160916-161533,main[35]=== origin process begin
+
+===20160916-161534,main[40]=== data : group1/M00/00/00/wKib5VfbqieAKOziAAAAByXX7BE237.txt
+
+
+===20160916-161534,main[42]=== origin process end
+
+===20160916-161534,main[46]=== main end
+
+===20160916-161843,main[10]=== main begin
+
+===20160916-161843,main[35]=== origin process begin
+
+===20160916-161843,main[26]=== child process begin
+
+===20160916-161844,main[40]=== data : group1/M00/00/00/wKib5VfbquWAYLfeAAAAByXX7BE218.txt
+
+
+===20160916-161844,main[42]=== origin process end
+
+===20160916-161844,main[46]=== main end
+
+===20160916-162108,main[10]=== main begin
+
+===20160916-162108,main[35]=== origin process begin
+
+===20160916-162108,main[26]=== child process begin
+
+===20160916-162109,main[30]=== child process end
+
+===20160916-162109,main[40]=== data : Usage: /etc/fdfs/client.conf <config_file> <local_filename> [storage_ip:port] [store_path_index]
+
+
+===20160916-162109,main[42]=== origin process end
+
+===20160916-162109,main[46]=== main end
+
+===20160916-185543,main[10]=== main begin
+
+===20160916-185543,main[26]=== child process begin
+
+===20160916-185543,main[29]=== child process end
+
+===20160916-185543,main[33]=== origin process begin
+
+===20160916-185543,main[38]=== data : group1/M00/00/00/wKib5Vfbz7CAE450AAAAByXX7BE791.txt
+
+
+===20160916-185543,main[40]=== origin process end
+
+===20160916-185543,main[42]=== main end
+
